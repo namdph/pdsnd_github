@@ -11,5 +11,5 @@ Add files and changes to github
 bikeshare.py.txt
 
 ### Credits
-Me
+Me and https://learn.udacity.com/
 
