@@ -2,7 +2,7 @@
 ### Date created
 28/04/2023 
 
-### GitHub
+### GitHub Project
 
 ### Description
 Add files and changes to github
