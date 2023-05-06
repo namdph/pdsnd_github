@@ -260,7 +260,6 @@ def main():
             restart = restart.lower()
         if restart.lower() != 'yes':
             print('BYE!')
-	    #print('OK!')
             break
 
 
